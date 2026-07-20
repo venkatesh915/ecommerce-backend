@@ -163,6 +163,14 @@ backend/
 │   │   └── admin.py
 │   │
 │   ├── services/
+│   │   ├── auth.py
+│   │   ├── product.py
+│   │   ├── category.py
+│   │   ├── cart.py
+│   │   ├── order.py
+│   │   ├── payment.py
+│   │   ├── wishlist.py
+│   │   └── admin.py
 │   │
 │   ├── database.py
 │   └── main.py
